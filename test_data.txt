@@ -1,0 +1,49 @@
+========== VALID EMAILS ==========
+john.doe@gmail.com
+jane_smith@company.co.uk
+contact@example-site.org
+user+tag@domain.com
+admin@subdomain.example.net
+
+========== INVALID EMAILS (should be filtered out) ==========
+notanemail@
+@domain.com
+user@
+plaintext
+user @space.com
+double@@domain.com
+
+========== VALID PHONE NUMBERS ==========
+(416) 555-1234
+416-555-5678
+416.555.9012
+4165553456
+1-416-555-7890
++14165551122
+
+========== INVALID PHONE NUMBERS (should be filtered out) ==========
+123-456-789
+12345
+555-CALL
+(123) 45-6789
+
+========== VALID URLs ==========
+https://www.google.com
+http://example.com/page?query=test
+https://github.com/user/repo
+https://www.rogers.com/internet/packages
+http://subdomain.domain.co.uk/path/to/page
+
+========== INVALID URLs (should be filtered out) ==========
+not-a-url
+ftp://fileserver.com
+www.missing-protocol.com
+https://
+http://just-protocol
+
+========== MIXED CONTENT ==========
+Contact us at support@company.com or call (555) 123-4567.
+Visit our website at https://www.example.com for more info.
+Email: info@domain.org | Phone: 1-800-555-0199
+Check out https://github.com/project and send feedback to feedback@example.net
+Invalid stuff: @@@, 123, notaurl, should be ignored!
