@@ -1,0 +1,4 @@
+Provider,Plan Name,Price,Speed,Data
+Fido,Entry Plan,$35,100 Mbps,10 GB
+Fido,Plus Plan,$50,500 Mbps,50 GB
+Fido,Premium Plan,$70,1 Gbps,Unlimited
