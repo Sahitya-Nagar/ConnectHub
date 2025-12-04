@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Type,Name,Price,Details
 Plans,"Log In","Log In
 ON / EN
@@ -1214,3 +1215,10 @@ Unlimited Canada-wide minutes5
 Unlimited Canada-wide messaging (text & picture)6
 Add now
 View details","Canada Wide Plans | Promotion | $50 | $ | 40 | per month | 1 | Pay-per-use Data | Price includes savings of $10 with auto-pay by bank account discount. See details. | Pick 1 FREE Perk from options like Unlimited Long Distance Pack | 10GB of Shock-Free® Data234 at 5G Speed | Unlimited Canada-wide minutes5 | Unlimited International SMS | Add now | View details | Promotion | $55 | $ | 45 | per month | 1 | 40 GB | at 5G Speed | Price includes savings of $10 with auto-pay by bank account discount. See details. | Pick 1 FREE Perk from options like Unlimited Long Distance Pack | 40GB of Shock-Free® Data234 at 5G Speed | Unlimited Canada-wide minutes5 | Unlimited International SMS | Add now | View details | Promotion | $60 | $ | 50 | per month | 1 | 60 GB | at 5G Speed | Price includes savings of $10 with auto-pay by bank account discount. See details. | Pick 1 FREE Perk from options like Unlimited Long Distance Pack | 60GB of Shock-Free® Data234 at 5G Speed | Unlimited Canada-wide minutes5 | Unlimited International SMS | Add now | View details | Promotion | $85 | $ | 75 | per month | 1 | 100 GB | at 5G Speed | Price includes savings of $10 with auto-pay by bank account discount. See details. | Pick 1 FREE Perk from options like Unlimited Long Distance Pack | 100GB of Shock-Free® Data234 at 5G Speed | Unlimited Canada-wide minutes5 | Unlimited International SMS | Add now | View details | Starter Plans | Promotion | $35 | $ | 25 | per month | 1 | Price includes savings of $10 with auto-pay by bank account discount. See details. | Pay-per-use data | Unlimited Canada-wide minutes5 | Unlimited Canada-wide messaging (text & picture)6 | Add now | View details | $ | 15 | per month | 1 | 250 MB | at 3G Speed | 250MB of Shock-Free® Data234 at 3G Speed | 100 Canada-wide minutes with unlimited incoming minutes5 | Unlimited Canada-wide messaging (text only)7 | Add now | View details | $ | 35 | per month | 1 | 3 GB | at 3G Speed | 3GB of Shock-Free® Data234 at 3G Speed | Unlimited Canada-wide minutes5 | Unlimited Canada-wide messaging (text & picture)6 | Add now | View details | $ | 37 | .50 | per month | 1 | 2 GB | at 4G Speed | 2GB of Shock-Free® Data234 at 4G Speed | Unlimited Canada-wide minutes5 | Unlimited Canada-wide messaging (text & picture)6 | Add now | View details"
+=======
+Plan Name,Price,Data,Features,URL
+
+Koodo Home Internet 100,$50,50 Mbps,Unlimited data,https://www.koodomobile.com/en/shop/subscriptions/internet?INTCMP=KMNew_NavMenu_Shop_KoodoInternet
+Koodo Home Internet 500,$75,500 Mbps,Unlimited data,https://www.koodomobile.com/en/shop/subscriptions/internet?INTCMP=KMNew_NavMenu_Shop_KoodoInternet
+Koodo Home Internet Gigabit,$79,1Gbps,Unlimited data,https://www.koodomobile.com/en/shop/subscriptions/internet?INTCMP=KMNew_NavMenu_Shop_KoodoInternet
+>>>>>>> 6ffb68225fc6a7e8cb0d62940ee4f63e847efc98

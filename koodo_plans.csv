@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Plan Name,Price,Data,Features
 Koodo Small Plan,$35,2 GB,Canada-wide calling
 Koodo Medium Plan,$45,6 GB,Canada-wide calling  
@@ -7,3 +8,10 @@ Koodo Unlimited Plan,$75,Unlimited,Canada-wide calling + US roaming
 Koodo Home Internet 50,$50,50 Mbps,Unlimited data
 Koodo Home Internet 100,$65,100 Mbps,Unlimited data
 Koodo Home Internet 500,$80,500 Mbps,Unlimited data
+=======
+Plan Name,Price,Data,Features,URL
+
+Koodo Home Internet 100,$50,50 Mbps,Unlimited data,https://www.koodomobile.com/en/shop/subscriptions/internet?INTCMP=KMNew_NavMenu_Shop_KoodoInternet
+Koodo Home Internet 500,$75,500 Mbps,Unlimited data,https://www.koodomobile.com/en/shop/subscriptions/internet?INTCMP=KMNew_NavMenu_Shop_KoodoInternet
+Koodo Home Internet Gigabit,$79,1Gbps,Unlimited data,https://www.koodomobile.com/en/shop/subscriptions/internet?INTCMP=KMNew_NavMenu_Shop_KoodoInternet
+>>>>>>> 6ffb68225fc6a7e8cb0d62940ee4f63e847efc98

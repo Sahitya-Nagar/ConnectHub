@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Plan Name,Price,Speed,Connection Type,Data Cap,Features,Region,URL
 AT&T Internet 100,$55/mo.,100 Mbps,Fiber,1 TB,"Includes Wi-Fi Gateway; No annual contract",Nationwide,https://www.att.com/internet/
 AT&T Fiber 300,$60/mo.,300 Mbps,Fiber,Unlimited,"Symmetrical speeds; best for streaming",Available in select metro areas,https://www.att.com/internet/fiber/
@@ -5,3 +6,12 @@ AT&T Fiber 500,$65/mo.,500 Mbps,Fiber,Unlimited,"Supports multiple devices; free
 AT&T Fiber 1 Gig,$80/mo.,940 Mbps,Fiber,Unlimited,"Ultra-low latency; ideal for gamers",Large urban areas,https://www.att.com/internet/fiber/
 AT&T Fiber 2 Gig,$110/mo.,2 Gbps,Fiber,Unlimited,"Handles 4K/8K streaming; enterprise grade",Metro cities only,https://www.att.com/internet/fiber/
 AT&T Fiber 5 Gig,$180/mo.,5 Gbps,Fiber,Unlimited,"Fastest available speed; future-ready",Limited availability,https://www.att.com/internet/fiber/
+=======
+Plan Name,Price,Speed,Connection Type,Data Cap,Features,Region,URL
+AT&T Internet 100,$55/mo.,100 Mbps,Fiber,1 TB,"Includes Wi-Fi Gateway; No annual contract",Nationwide,https://www.att.com/internet/
+AT&T Fiber 300,$60/mo.,300 Mbps,Fiber,Unlimited,"Symmetrical speeds; best for streaming",Available in select metro areas,https://www.att.com/internet/fiber/
+AT&T Fiber 500,$65/mo.,500 Mbps,Fiber,Unlimited,"Supports multiple devices; free equipment",Major cities,https://www.att.com/internet/fiber/
+AT&T Fiber 1 Gig,$80/mo.,940 Mbps,Fiber,Unlimited,"Ultra-low latency; ideal for gamers",Large urban areas,https://www.att.com/internet/fiber/
+AT&T Fiber 2 Gig,$110/mo.,2 Gbps,Fiber,Unlimited,"Handles 4K/8K streaming; enterprise grade",Metro cities only,https://www.att.com/internet/fiber/
+AT&T Fiber 5 Gig,$180/mo.,5 Gbps,Fiber,Unlimited,"Fastest available speed; future-ready",Limited availability,https://www.att.com/internet/fiber/
+>>>>>>> 6ffb68225fc6a7e8cb0d62940ee4f63e847efc98

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Provider,,Price,DownloadSpeed,,URL
 Rogers,,$60.00 per mo,,,https://www.rogers.com/internet/packages
 Rogers,,$75.00 per mo2,100 Mbps,,https://www.rogers.com/internet/packages
@@ -5,3 +6,12 @@ Rogers,,$90.00 per mo2,300 Mbps,,https://www.rogers.com/internet/packages
 Rogers,,$100.00 per mo2,500 Mbps,,https://www.rogers.com/internet/packages
 Rogers,,$110.00 per mo2,Up to 1 Gbps download speeds4,,https://www.rogers.com/internet/packages
 Rogers,,$120.00 per mo2,Up to 2 Gbps download speeds4,,https://www.rogers.com/internet/packages
+=======
+Provider,,Price,DownloadSpeed,,URL
+Rogers,,$60.00 per mo,50 Mbps,,https://www.rogers.com/internet/packages
+Rogers,,$75.00 per mo,100 Mbps,,https://www.rogers.com/internet/packages
+Rogers,,$90.00 per mo,300 Mbps,,https://www.rogers.com/internet/packages
+Rogers,,$100.00 per mo,500 Mbps,,https://www.rogers.com/internet/packages
+Rogers,,$110.00 per mo,Up to 1 Gbps download speeds,,https://www.rogers.com/internet/packages
+Rogers,,$120.00 per mo,Up to 2 Gbps download speeds,,https://www.rogers.com/internet/packages
+>>>>>>> 6ffb68225fc6a7e8cb0d62940ee4f63e847efc98
